@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hi,%20I'm%20Onkar%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-
+<h1 align="center">Hi, I'm Onkar 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=1050&lines=%20%20%20Building+scalable%2C+performant%2C+reliable%2C+fault-tolerant+%26+HA+backend+systems;%20%20%20Queues%2C+APIs+and+well-indexed+databases;%20%20%20Caches%2C+load-balancers%2C+gateways%2C+observability%2C+experimentation" alt="Typing SVG" />
 </p>
