@@ -11,8 +11,4 @@
   <img src="https://skillicons.dev/icons?i=go,graphql,kafka,aws,gcp,terraform,postgres,mysql,redis,kubernetes,grafana,prometheus,githubactions" />
 </p>
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=onkarbanerjee30&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center"><i>"It's not magic, it's just a well-designed queue."</i></p>
