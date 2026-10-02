@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=onkarbanerjee&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=onkarbanerjee30&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center"><i>"It's not magic, it's just a well-designed queue."</i></p>
